@@ -1,0 +1,14 @@
+layout_spectrum: 0.1047489
+typography_spectrum: 0.5784678
+color:
+  lightness: 0.8020738
+  brandStrength: 0.6554075
+  saturation: 0.8331887
+  rhythmicContrast: 0.2707626
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Hoffman Publications '
